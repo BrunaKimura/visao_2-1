@@ -1,4 +1,4 @@
-# visao_2-1
+# Projeto 2.1 de Visão Computacional
 
-procurar por resize ou autoscaling
+## Bruna Kimura
 
